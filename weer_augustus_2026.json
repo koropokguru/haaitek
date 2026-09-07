@@ -1,0 +1,287 @@
+{
+  "maand": "augustus 2026",
+  "locatie": "Den Haag (verzonnen, niet echt gemeten)",
+  "thema": "De Wollen Sokken Zomer",
+  "samenvatting": "Een hittegolf van negen dagen aan het begin van de maand, drie dagen onweer in het midden, en een verrassende kou-inval in het laatste weekend waarbij iedereen ineens weer wollen sokken opzocht.",
+  "dagen": [
+    {
+      "dag": 1,
+      "datum": "2026-08-01",
+      "temp_max_c": 37,
+      "temp_min_c": 20,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 2,
+      "datum": "2026-08-02",
+      "temp_max_c": 32,
+      "temp_min_c": 22,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 3,
+      "datum": "2026-08-03",
+      "temp_max_c": 33,
+      "temp_min_c": 21,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": "Eerste ijscoboer verkoopt de voorraad van een hele week in één middag."
+    },
+    {
+      "dag": 4,
+      "datum": "2026-08-04",
+      "temp_max_c": 33,
+      "temp_min_c": 20,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 5,
+      "datum": "2026-08-05",
+      "temp_max_c": 37,
+      "temp_min_c": 24,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 6,
+      "datum": "2026-08-06",
+      "temp_max_c": 32,
+      "temp_min_c": 24,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 7,
+      "datum": "2026-08-07",
+      "temp_max_c": 35,
+      "temp_min_c": 20,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": "Recordhitte: asfalt op het schoolplein wordt zo heet dat een leerling er een ei op probeert te bakken (het lukt, een beetje)."
+    },
+    {
+      "dag": 8,
+      "datum": "2026-08-08",
+      "temp_max_c": 32,
+      "temp_min_c": 20,
+      "conditie": "hittegolf",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 9,
+      "datum": "2026-08-09",
+      "temp_max_c": 33,
+      "temp_min_c": 21,
+      "conditie": "zonnig",
+      "neerslag_mm": 0,
+      "bijzonderheid": "Laatste hittegolfdag, 's avonds trekt de temperatuur binnen drie uur tien graden terug."
+    },
+    {
+      "dag": 10,
+      "datum": "2026-08-10",
+      "temp_max_c": 25,
+      "temp_min_c": 17,
+      "conditie": "zonnig",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 11,
+      "datum": "2026-08-11",
+      "temp_max_c": 25,
+      "temp_min_c": 14,
+      "conditie": "lichte regen",
+      "neerslag_mm": 4,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 12,
+      "datum": "2026-08-12",
+      "temp_max_c": 24,
+      "temp_min_c": 17,
+      "conditie": "bewolkt",
+      "neerslag_mm": 1,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 13,
+      "datum": "2026-08-13",
+      "temp_max_c": 27,
+      "temp_min_c": 14,
+      "conditie": "lichte regen",
+      "neerslag_mm": 6,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 14,
+      "datum": "2026-08-14",
+      "temp_max_c": 21,
+      "temp_min_c": 15,
+      "conditie": "onweer",
+      "neerslag_mm": 21,
+      "bijzonderheid": "Eerste onweersavond, de stad kleurt paars-geel tijdens een spectaculaire bliksemshow."
+    },
+    {
+      "dag": 15,
+      "datum": "2026-08-15",
+      "temp_max_c": 21,
+      "temp_min_c": 14,
+      "conditie": "onweer",
+      "neerslag_mm": 17,
+      "bijzonderheid": "Straten blank door slagregens, buurtapp vol foto's van kinderen die 'zwemmen' op het parkeerterrein."
+    },
+    {
+      "dag": 16,
+      "datum": "2026-08-16",
+      "temp_max_c": 22,
+      "temp_min_c": 14,
+      "conditie": "onweer",
+      "neerslag_mm": 26,
+      "bijzonderheid": "Laatste onweersdag, gevolgd door een opvallend heldere lucht en een dubbele regenboog."
+    },
+    {
+      "dag": 17,
+      "datum": "2026-08-17",
+      "temp_max_c": 27,
+      "temp_min_c": 15,
+      "conditie": "bewolkt",
+      "neerslag_mm": 1,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 18,
+      "datum": "2026-08-18",
+      "temp_max_c": 26,
+      "temp_min_c": 16,
+      "conditie": "zonnig",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 19,
+      "datum": "2026-08-19",
+      "temp_max_c": 24,
+      "temp_min_c": 13,
+      "conditie": "bewolkt",
+      "neerslag_mm": 10,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 20,
+      "datum": "2026-08-20",
+      "temp_max_c": 27,
+      "temp_min_c": 15,
+      "conditie": "half bewolkt",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 21,
+      "datum": "2026-08-21",
+      "temp_max_c": 26,
+      "temp_min_c": 13,
+      "conditie": "zonnig",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 22,
+      "datum": "2026-08-22",
+      "temp_max_c": 26,
+      "temp_min_c": 14,
+      "conditie": "bewolkt",
+      "neerslag_mm": 2,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 23,
+      "datum": "2026-08-23",
+      "temp_max_c": 27,
+      "temp_min_c": 14,
+      "conditie": "zonnig",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 24,
+      "datum": "2026-08-24",
+      "temp_max_c": 24,
+      "temp_min_c": 15,
+      "conditie": "lichte regen",
+      "neerslag_mm": 6,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 25,
+      "datum": "2026-08-25",
+      "temp_max_c": 22,
+      "temp_min_c": 15,
+      "conditie": "bewolkt",
+      "neerslag_mm": 4,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 26,
+      "datum": "2026-08-26",
+      "temp_max_c": 26,
+      "temp_min_c": 15,
+      "conditie": "zonnig",
+      "neerslag_mm": 0,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 27,
+      "datum": "2026-08-27",
+      "temp_max_c": 16,
+      "temp_min_c": 7,
+      "conditie": "fris en fris",
+      "neerslag_mm": 4,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 28,
+      "datum": "2026-08-28",
+      "temp_max_c": 13,
+      "temp_min_c": 7,
+      "conditie": "fris en fris",
+      "neerslag_mm": 3,
+      "bijzonderheid": "Onverwachte kou-inval: winkels verkopen ineens weer wollen sokken en warme chocolademelk."
+    },
+    {
+      "dag": 29,
+      "datum": "2026-08-29",
+      "temp_max_c": 15,
+      "temp_min_c": 8,
+      "conditie": "fris en fris",
+      "neerslag_mm": 5,
+      "bijzonderheid": null
+    },
+    {
+      "dag": 30,
+      "datum": "2026-08-30",
+      "temp_max_c": 16,
+      "temp_min_c": 7,
+      "conditie": "fris en fris",
+      "neerslag_mm": 5,
+      "bijzonderheid": "Kilste dag van de maand, mensen zoeken massaal hun herfstjas weer op."
+    },
+    {
+      "dag": 31,
+      "datum": "2026-08-31",
+      "temp_max_c": 14,
+      "temp_min_c": 6,
+      "conditie": "fris en fris",
+      "neerslag_mm": 1,
+      "bijzonderheid": null
+    }
+  ]
+}
